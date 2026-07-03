@@ -1,0 +1,11 @@
+Hello, World!
+
+This is a sample text file.
+
+Name: Thushara
+Course: B.Tech
+Project: Counter App
+
+This file is created for testing Git and GitHub.
+
+Thank you!
